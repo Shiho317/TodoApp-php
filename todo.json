@@ -1,0 +1,8 @@
+{
+    "new todo": {
+        "completed": false
+    },
+    "testing": {
+        "completed": true
+    }
+}
